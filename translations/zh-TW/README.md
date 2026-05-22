@@ -8,6 +8,6 @@
 
 [![Open in Bolt](https://bolt.new/static/open-in-bolt.svg)](https://bolt.new/~/sb1-cpzvke2q)
 
-This is a web-style todo list.
+這是一個 todo 的網站式的待辦列表。
 
-We need to support incremental translation of our project. I'm not sure if this feature can be implemented yet.
+這裡需要支援我們項目完成一個增量翻譯，這個功能我還不清楚能不能進行實現。
